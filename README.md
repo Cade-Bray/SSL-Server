@@ -20,6 +20,7 @@
   I ensured the application was able to excute free of errors from Spring boot and tomcat dependencies along with generating and deploying SSL certificates. I ensured my refactored code did not introduce new bugs by running a dependency check prior to and post refactoring while comparing the differences.
 
 **What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?**
+
 I used the vulnerability assement flow chart along with multiple online guides including the spring boot documentation page to help deploy this code.
 
 **Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?**
